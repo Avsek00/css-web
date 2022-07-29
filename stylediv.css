@@ -1,0 +1,56 @@
+.main{
+    height: 600px;
+    width: 800px;
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+
+
+
+}
+
+.one{
+    background-color: red;
+    height: 100px;
+    width: 600px;
+    position: absolute;
+
+
+}
+
+.two{
+    background-color: green;
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    left: 600px;
+    
+}
+
+.three{
+    background-color: orangered;
+    height: 500px;
+    width: 350px;
+
+
+
+}
+
+.four{
+    background-color: yellow;
+    height: 400px;
+    width: 450px;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+
+}
+
+.five{
+    background-color: tomato;
+    width: 800px;
+    height: 100px;
+    position: absolute;
+    top: 500px ;
+}
+
